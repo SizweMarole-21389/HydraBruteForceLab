@@ -1,0 +1,5 @@
+# keep wordlists and captured data out of the repo, but never the screenshots
+/passwords*.txt
+/*-encoded*.txt
+.env
+*.pcap
